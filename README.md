@@ -23,7 +23,7 @@ My next steps in this journey are:
 - Some short writings
 - Whatever I am up to at the moment :smiley:
 
-🌐 My personal website: [lorenc1o.github.io](https://www.lorenc1o.github.io)
+🌐 My personal website: [lorenc1o.github.io](https://lorenc1o.github.io)
 
 📫 How to reach me:
 - Linkedin: https://www.linkedin.com/in/lorencio-abril/
