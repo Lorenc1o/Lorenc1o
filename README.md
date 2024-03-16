@@ -11,10 +11,8 @@ Université Libre de Bruxelles) and co-financed by the European Commission. At t
 - ULB (Brussels, :belgium:): Covered the basics of business intelligence, NoSQL databases, and data mining. 
 - UPC BarcelonaTech (Barcelona, :es:): Delved into big data technologies, graph databases, and machine learning.
 - I attended the eBISS (European Business Inteligence and Big Data Summer School) and presented a poster about the [State of the Art of the Transformer model](https://github.com/Lorenc1o/transformer_models_SoE).
-
-My next steps in this journey are:
-- CentraleSupélec, Université Paris Saclay (Paris, :fr:): Here, I'll be exploring decision modelling, data visualization, and deep learning.
-- Developing of the Master's thesis at one partner institution (yet to be determined).
+- CentraleSupélec, Université Paris Saclay (Paris, :fr:): Explored decision modeling, data visualization, graph analysis, and deep learning.
+- Developing of the Master's thesis at AIT Austrian Institute of Technology (Vienna, 🇦🇹).
 
 :bulb: What will you find in my github repositories?
 - Class notes of several courses
