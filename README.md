@@ -1,5 +1,7 @@
 ## 👋 Hola, I’m **Jose Antonio Lorencio Abril** (@Lorenc1o)
 
+> *“Mathematics reveals timeless truths; code turns them into real‑world impact.”* — that’s the journey I’m on 🚀
+
 - 🎓 Double BSc **Mathematics** & **Computer Science** — University of Murcia  
   *Honour Mention for Academic Excellence*  
 - 🎓 MSc **Big Data Management & Analytics** (Erasmus Mundus, ULB 🇧🇪 · UPC 🇪🇸 · CentraleSupélec 🇫🇷)
@@ -23,5 +25,3 @@
 - Personal site / extended CV → **[lorenc1o.github.io](https://lorenc1o.github.io/)**  
 - LinkedIn → **[lorencio‑abril](https://www.linkedin.com/in/lorencio-abril/)**  
 - Email → **joseantoniolorencio@gmail.com**
-
-> *“Mathematics reveals timeless truths; code turns them into real‑world impact.”* — that’s the journey I’m on 🚀
